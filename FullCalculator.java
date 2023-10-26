@@ -1,3 +1,4 @@
+package JavaBasics1.Java1;
 import java.util.Scanner;
 
 public class FullCalculator 
